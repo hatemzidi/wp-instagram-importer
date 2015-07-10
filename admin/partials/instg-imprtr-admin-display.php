@@ -14,7 +14,6 @@
 
 
 $params = get_option( $this->plugin_name . '-settings-params', array() );
-print_r($params);
 ?>
 <div class="wrap">
     <h2><?php _e( "WP Instagram Importer", "wpinstimp" ); ?></h2>
