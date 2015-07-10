@@ -1,4 +1,4 @@
-# WP-INSTAGRAM-IMPORTER
+# WP-Instagram-Importer
 Imports Instagram photos as posts to your WordPress site
 
 
@@ -13,6 +13,8 @@ The plugin will run periodically to check the last photos from the account.
 * Specifying Instagram account via oAuth.
 * Set the category and the user for the new created posts.
 * Can make the image as a featured image.
+* Can set content of each new post
+* Set the new post format as 'Image'
 
 
 ## Installation
