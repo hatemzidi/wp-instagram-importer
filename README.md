@@ -40,7 +40,7 @@ A copy of the license is included in the root of the plugin’s directory. The fil
 # Credits
 This plugin was inspired from the [work](http://mlitzinger.com/articles/instagram-to-wordpress-posts/) of [Matt Litzinger](http://mlitzinger.com/).
 
-It's also based on the [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) by [Devin Vinson](http://devinvinson.com/).
+It's also based on the [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) by [Devin Vinson](http://devinvinson.com/) and example from [now-hiring](https://github.com/slushman/now-hiring).
 
 ## Changelog
 
@@ -49,11 +49,15 @@ It's also based on the [WordPress Plugin Boilerplate](https://github.com/DevinVi
 * first release
 
 ## todo 
-- [admin] add settings page
++ [admin] add settings page
 - [admin] separate into tabs (intagram | settings)
 - [admin] use instagram oAuth or authorized app
 - [admin] tags of created posts 
 - [admin] post status ?
-- [admin] default content for the new post
++ [admin] set featured ?
+- [admin] set format ?
+- [admin] set default content for the new post
+- [admin][dev] add shortcodes for content : link, image, date, caption...
 - [dev] refactor to : https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
 - [dev] 'continuous' refactor
+- [web] make landing website
