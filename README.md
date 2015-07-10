@@ -54,7 +54,7 @@ It's also based on the [WordPress Plugin Boilerplate](https://github.com/DevinVi
 - [admin] use instagram oAuth or authorized app
 - [admin] tags of created posts 
 - [admin] post status ?
-- ~~[admin] set featured ? ~~
+- ~~[admin] set featured ?~~
 - [admin] set format ?
 - [admin] set default content for the new post
 - [admin][dev] add shortcodes for content : link, image, date, caption...
