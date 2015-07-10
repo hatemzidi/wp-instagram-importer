@@ -3,7 +3,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       http://wpinstagram.hatemzidi.com
+ * @link       http://wii.hatemzidi.com
  * @since      1.0.0
  *
  * @package    instg_imprtr

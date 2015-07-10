@@ -3,7 +3,7 @@
 /**
  * The public-facing functionality of the plugin.
  *
- * @link       http://wpinstagram.hatemzidi.com
+ * @link       http://wii.hatemzidi.com
  * @since      1.0.0
  *
  * @package    instg_imprtr

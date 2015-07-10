@@ -8,13 +8,13 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              http://wpinstagram.hatemzidi.com
+ * @link              http://wii.hatemzidi.com
  * @since             1.0.0
  * @package           instg_imprtr
  *
  * @wordpress-plugin
  * Plugin Name:       Wordpress Instagram Importer
- * Plugin URI:        http://wpinstagram.hatemzidi.com
+ * Plugin URI:        http://wii.hatemzidi.com
  * Description:       Imports Instagram photos as posts to your WordPress site.
  * Version:           1.0.0
  * Author:            Your Name or Your Company

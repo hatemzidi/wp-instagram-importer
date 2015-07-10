@@ -5,7 +5,7 @@
  *
  * This file is used to markup the admin-facing aspects of the plugin.
  *
- * @link       http://wpinstagram.hatemzidi.com
+ * @link       http://wii.hatemzidi.com
  * @since      1.0.0
  *
  * @package    instg_imprtr
