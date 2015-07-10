@@ -1,4 +1,4 @@
-# WP-Instagram-Importer
+# WP Instagram Importer
 Imports Instagram photos as posts to your WordPress site
 
 
