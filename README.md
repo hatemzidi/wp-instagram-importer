@@ -37,7 +37,7 @@ The WP Instagram Importer is licensed under the GPL v2 or later.
 
 > You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 
-A copy of the license is included in the root of the plugin’s directory. The file is named `LICENSE`.
+A copy of the license is included in the root of the pluginâ€™s directory. The file is named `LICENSE`.
 
 # Credits
 This plugin was inspired from the [work](http://mlitzinger.com/articles/instagram-to-wordpress-posts/) of [Matt Litzinger](http://mlitzinger.com/).
@@ -60,7 +60,8 @@ It's also based on the [WordPress Plugin Boilerplate](https://github.com/DevinVi
 - [admin] set format ?
 - [admin] set default content for the new post
 - [admin][dev] add shortcodes for content : link, image, date, caption...
-- [dev] refactor to : https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
+- ~~[dev] refactor to : https://github.com/DevinVinson/WordPress-Plugin-Boilerplate~~
 - [dev] 'continuous' refactor
 - [web] make landing website
+- [dev] features from https://goo.gl/1vu4q0 ?
 - [prod] add plugin to wordpress repo, update what's needed for that
