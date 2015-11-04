@@ -62,6 +62,7 @@ It's also based on the [WordPress Plugin Boilerplate](https://github.com/DevinVi
 - [admin][dev] add shortcodes for content : link, image, date, caption...
 - ~~[dev] refactor to : https://github.com/DevinVinson/WordPress-Plugin-Boilerplate~~
 - [dev] 'continuous' refactor
+- [dev] keyword/tag to retrieve from instagram
 - [web] make landing website
 - [dev] features from https://goo.gl/1vu4q0 ?
 - [prod] add plugin to wordpress repo, update what's needed for that
